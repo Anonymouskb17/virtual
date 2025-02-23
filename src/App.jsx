@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Navbar from "./components/Navbar";
 import BodySection from "./components/BodySection";
 import Feature from "./components/Feature";
